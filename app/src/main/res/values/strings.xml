@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SectionAdapter</string>
+    <string name="header_test">Header</string>
+    <string name="item_test">test</string>
+</resources>
